@@ -16,6 +16,7 @@
 Certifique-se de ter o Python instalado e execute o seguinte comando para instalar as dependências necessárias:
 
 **Copy code**
+
 pip install pandas Pillow pygame
 
 **Execução do Aplicativo:**
